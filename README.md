@@ -41,4 +41,6 @@ It achieves the following results on the evaluation set:
 - Accuracy: 0.9123
 - F1: 0.9206
 
-Feel free to try it out on my [demo hosted on Spaces](https://huggingface.co/spaces/lidiapierre/FR-sexism-detection)!
+Feel free to try it out on my [demo hosted on Spaces](https://huggingface.co/spaces/lidiapierre/french-sexism-detection)!
+
+<img width="1268" alt="Screenshot 2023-10-11 at 09 51 34" src="https://github.com/lidiapierre/fr_sexism_detection/assets/19575156/73a6d26c-054d-4bf4-b07e-36586f2f6859">
