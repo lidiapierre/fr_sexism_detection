@@ -1,0 +1,7 @@
+transformers
+datasets
+evaluate
+huggingface_hub
+python-dotenv
+pandas
+numpy
